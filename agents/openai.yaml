@@ -1,0 +1,7 @@
+interface:
+  display_name: "Literature Review Notes"
+  short_description: "Translate and explain paper screenshots."
+  default_prompt: "Use $literature-review-notes to transcribe, translate, and explain this paper screenshot."
+
+policy:
+  allow_implicit_invocation: true
