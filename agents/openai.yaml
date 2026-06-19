@@ -1,7 +1,7 @@
 interface:
   display_name: "Literature Review Notes"
-  short_description: "Translate and explain paper screenshots."
-  default_prompt: "Use $literature-review-notes to transcribe, translate, and explain this paper screenshot."
+  short_description: "Read screenshots and break down formulas."
+  default_prompt: "Use $literature-review-notes mode 1 or 1+2 to process this paper screenshot."
 
 policy:
   allow_implicit_invocation: true
